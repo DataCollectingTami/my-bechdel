@@ -1,0 +1,40 @@
+table{
+    width: 100%;
+}
+
+.film-item {
+  color: antiquewhite;
+  padding: 0.3%;
+  box-shadow: 0 1px 8px rgb(42, 23, 59);
+  text-align: center;
+  width: 80%;
+}
+
+.film-title{
+  text-decoration: none;
+    font-size: large;
+    color: antiquewhite;
+}
+
+.filmBox{
+width: 50%;
+}
+
+.film-title:hover{
+  text-decoration: underline;
+    font-size: large;
+    color: antiquewhite;
+}
+.App-link {
+    color: #61dafb;
+    margin-right: 10%;
+  }
+
+  .App-link:hover{
+   cursor: pointer;
+   text-decoration: underline; 
+  }
+
+  button{
+    margin-left: 5%;
+  }

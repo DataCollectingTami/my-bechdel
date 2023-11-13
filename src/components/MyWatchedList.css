@@ -1,0 +1,29 @@
+.listBlock{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    max-width: 50%;
+
+}
+
+ul{
+    padding: 0%;
+}
+
+.filmItem{
+
+    color: purple;
+    padding: 0em;
+    box-shadow: 0 1px 8px rgb(42, 23, 59);
+    text-align:left;
+    width: 100%;
+    list-style: none;
+
+}
+
+li{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+

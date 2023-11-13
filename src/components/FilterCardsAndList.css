@@ -1,0 +1,53 @@
+table{
+    width: 100%;
+}
+
+.film-item {
+  color: antiquewhite;
+  padding: 0.3%;
+  box-shadow: 0 1px 8px rgb(42, 23, 59);
+  text-align: center;
+}
+
+.film-title{
+    font-size: large;
+}
+
+.App-link {
+    color: #61dafb;
+    margin-right: 10%;
+  }
+
+  .App-link:hover{
+   cursor: pointer;
+   text-decoration: underline; 
+  }
+
+  button{
+    margin-left: 5%;
+  }
+
+  .decade{
+    background-color: rgba(180, 68, 224, 0.753);
+    color:antiquewhite;
+    border-radius: 6px;
+    margin-top: 0.5%;
+    margin-right: 0%;
+  }
+
+  .decade:hover{
+    background-color: blue;
+  }
+
+  .filters{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 1%;
+  }
+
+  .titleSearch{
+    box-shadow: 0 1px 8px rgba(221, 31, 31, 0.753);
+    height: 5vh;
+  }

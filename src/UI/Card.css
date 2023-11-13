@@ -1,0 +1,15 @@
+.card {
+    border-radius: 12px;
+    background-color: rgb(217, 220, 224);
+    box-shadow: 0 1px 8px rgba(221, 31, 31, 0.753);
+    width: 70vh;
+    max-width: 90%;
+    height: 30vh;
+    margin: 5%;
+    padding: 2%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    overflow-wrap: normal;
+    overflow-y: scroll;
+}
